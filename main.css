@@ -1,4 +1,4 @@
-table.one {
+table.one thead tbody {
     width: 20em;
     /* padding: 1.5em; */
     border-spacing: 0em;
@@ -10,7 +10,7 @@ table.one th {
 }
 table.one th,td {
 padding: 0.75em 0 0.75em 0;
-border: darkblue solid 2px;
+border: green dotted 2px;
 }
 
 table.one th,td {
